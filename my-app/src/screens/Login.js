@@ -42,9 +42,11 @@ export default class Login extends React.Component{
                     borderRadius:23,
                     paddingVertical:2
                 }}>
-                    <Icon name="mail" color="#00716F" size={24}/>
+                    
                     <TextInput 
-                        style={{paddingHorizontal:10}}
+                    placeholder="Email"
+                    placeholderTextColor="#00716F"
+                    style={{paddingHorizontal:10}}
                     />
 
                     
@@ -61,9 +63,12 @@ export default class Login extends React.Component{
                     borderRadius:23,
                     paddingVertical:2
                 }}>
-                    <Icon name="mail" color="#00716F" size={24}/>
+                    
                     <TextInput 
-                        style={{paddingHorizontal:10}}
+                    secureTextEntry
+                    placeholder="Password"
+                    placeholderTextColor="#00716F"
+                    style={{paddingHorizontal:10}}
                     />
 
                     
