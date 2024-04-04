@@ -63,7 +63,7 @@ Overall, the Umuganda app represents a digital extension of Rwanda's Umuganda tr
   
 
   <p align="center">
-    <img alt="This is the mobile view of my Umuganda-app" [Screenshot] src="my-app/mobile-app.png"><br>
+    <img alt="This is the mobile view of my Umuganda-app" [Screenshot] src="mobile-app.png"><br>
   mobile-app.png
   </p>
   
